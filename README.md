@@ -11,3 +11,4 @@
 * git pull
 * git branch newbranch
 * git checkout branch
+* git merge branch
